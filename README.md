@@ -1,4 +1,8 @@
-### Hi there 👋
+### Make the world a better place! 🚀
+
+Check this [article](https://www.polidea.com/blog/growing-with-the-open-source-community/) to see why I think you should engage in open-source project!
+
+Have you heard about ["Trillions and Trillions Served"](https://www.youtube.com/watch?v=JUt2nb0mgwg) documentary movie on The Apache Software Foundation?
 
 <!--
 **turbaszek/turbaszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
