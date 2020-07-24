@@ -1,6 +1,6 @@
 ### Make the world a better place! 🚀
 
-Check this [article](https://www.polidea.com/blog/growing-with-the-open-source-community/) to see why I think **you should engage in open-source project**! If you are Warsaw based consider joining [Apache Local Community](https://www.meetup.com/pl-PL/alc-warsaw/) 👌
+Check this [article](https://bit.ly/30F9fet) to see why I think **you should engage in open-source project**! If you are Warsaw based consider joining [Apache Local Community](https://bit.ly/3jEKmIC) 👌
 
 Have you heard about ["Trillions and Trillions Served"](https://www.youtube.com/watch?v=JUt2nb0mgwg) documentary movie on The Apache Software Foundation?
 
