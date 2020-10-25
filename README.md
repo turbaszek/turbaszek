@@ -1,6 +1,8 @@
-### Make the world a better place! 🚀
+### Make the world a better place! 🌎
 
 Check this [article](https://bit.ly/30F9fet) to see why **you should engage in open-source project**! 
+
+Looking for welcoming OSS project? Start with [Apache Airflow](https://github.com/apache/airflow/contribute) or [Apache Kibble](https://github.com/apache/kibble/contribute) 🚀
 
 If you are Warsaw based consider joining [Apache Local Community](https://bit.ly/3jEKmIC) 👌
 
