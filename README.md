@@ -1,10 +1,7 @@
 ### Make the world a better place! 🌎
 
-Check this [article](https://turbaszek.medium.com/growing-with-the-open-source-community-fac2f7748635) to see why **you should engage in open-source project**! 
-
 Looking for welcoming OSS project? Start with [Apache Airflow](https://github.com/apache/airflow/contribute) or [Apache Kibble](https://github.com/apache/kibble/contribute) 🚀
 
-If you are Warsaw based consider joining [Apache Local Community](https://bit.ly/3jEKmIC) 👌
 
 <!--
 **turbaszek/turbaszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
