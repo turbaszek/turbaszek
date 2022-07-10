@@ -1,6 +1,6 @@
 ### Make the world a better place! 🌎
 
-Looking for welcoming OSS project? Start with [Apache Airflow](https://github.com/apache/airflow/contribute) or [Apache Kibble](https://github.com/apache/kibble/contribute) 🚀
+Looking for welcoming OSS project? Start with [Apache Airflow](https://github.com/apache/airflow/contribute) 🚀
 
 
 <!--
